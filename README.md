@@ -1,3 +1,3 @@
 # instalight
-Group assignment in school. 
+Instagram inspired - Group assignment in school. 
 
